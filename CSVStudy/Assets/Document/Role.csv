@@ -1,0 +1,8 @@
+﻿注释,角色ID,角色头像,角色名称,角色性别
+字段,id,head,name,gender
+类型,int,string,string,string
+11,1,role_head01,张三,男
+12,2,role_head02,李四,男
+13,3,role_head03,王五,男
+14,4,role_head04,赵六,男
+15,5,role_head05,吴七,女

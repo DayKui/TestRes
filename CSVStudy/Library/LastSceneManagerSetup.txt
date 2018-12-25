@@ -1,0 +1,4 @@
+sceneSetups:
+- path: F:/PROJECT_SVN_RELEASE_APPTORE_NEW/Client/Assets/Scenes/MemoryDebug.unity
+  isLoaded: 1
+  isActive: 1
